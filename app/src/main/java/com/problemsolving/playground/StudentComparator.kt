@@ -1,4 +1,4 @@
-package com.algoexpert.playground
+package com.problemsolving.playground
 
 import java.util.Collections
 

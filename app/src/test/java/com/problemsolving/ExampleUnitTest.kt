@@ -1,4 +1,4 @@
-package com.algoexpert
+package com.problemsolving
 
 import org.junit.Test
 

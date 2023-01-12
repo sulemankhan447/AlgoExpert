@@ -1,4 +1,4 @@
-package com.algoexpert.medium.merge_overlapping_intervals
+package com.problemsolving.medium.merge_overlapping_intervals
 
 
 import java.util.*

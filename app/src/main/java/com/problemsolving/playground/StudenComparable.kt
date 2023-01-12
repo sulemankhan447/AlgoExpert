@@ -1,4 +1,4 @@
-package com.algoexpert.playground
+package com.problemsolving.playground
 
 data class StudentComparable(val id: Int, val name: String) : Comparable<StudentComparable> {
 
