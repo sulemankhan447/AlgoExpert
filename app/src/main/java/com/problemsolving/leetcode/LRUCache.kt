@@ -29,7 +29,7 @@ class LRUCache(capacity: Int) {
             removeNode(map.get(key))
         }
         if (map.size == len) {
-            removeNode(tail.prev!!)
+            removeNode(tail.prev)
         }
         insertNode(Node(key, value))
 
